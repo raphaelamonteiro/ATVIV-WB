@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #FFDFEF;
+    --secondary: #E53888;
+    --red: #A53860;
+    --secondary-white: #D9D9D9;
+    --highlight: #D76C82;
+    --secondary-highlight: #F49BAB;
+    --white: #FFF2EB;
+    --secondary-white: #e5e1dc;
+    --shade: #efefef;
+}
+
+body {
+    color: var(--secondary);
+    background-color: var(--primary);
+    font-family: 'Comfortaa',
+        cursive;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+ul,
+nav {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.edit-button {
+    background-color: var(--red);
+    color: var(--white);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 1px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.edit-button:hover {
+    background-color: var(--secondary);
+}
+
+.remove-button {
+    background-color: var(--red);
+    color: var(--white);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 1px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.remove-button:hover {
+    background-color: var(--secondary);
+}
