@@ -1,4 +1,4 @@
-# 🧾 Atividade prática ATViv – Integração Front-end e Back-end (RESTful)
+# 🧾 Atividade prática ATVIV – Integração Front-end e Back-end (RESTful)
 
 **Professor:** [Gerson da Penha Neto](https://github.com/gerson-pn)
 
