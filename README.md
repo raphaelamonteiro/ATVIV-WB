@@ -11,6 +11,8 @@
   
 <img align="center" alt="MaterializeCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg"/>
           
+<img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
 <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
@@ -74,63 +76,11 @@ Este pré-projeto seguiu a arquitetura REST, com um micro-serviço desenvolvido.
 
 ---
 
-## ✅ Pré-requisitos
-
-Antes de rodar o sistema, certifique-se de ter instalado:
-
-- [Node.js](https://nodejs.org/) (versão 14 ou superior)
-- npm (vem junto com o Node.js)
-
-Verifique com:
-
-```bash
-node -v
-npm -v
-```
-
----
-
-## ▶️ Como executar o projeto
-
-1. **Clone este repositório:**
-
-```bash
-git clone https://github.com/raphaelamonteiro/ATVIII-WB
-cd ATVIII-WB
-```
-
-2. **Instale as dependências:**
-
-```bash
-npm install
-```
-
-3. **Execute a aplicação no navegador:**
-
-```bash
-npm start
-```
-
-Acesse no navegador:
-
-```bash
-http://localhost:5173
-```
-
----
-
 ### 🧩 Materiais de Apoio
 
-- 🔗 Repositório auxiliar: [atviii-wb-typescript](https://github.com/gerson-pn/atviii-wb-typescript)
+- 🔗 Repositório auxiliar: [atviiv-wb-typescript](https://github.com/gerson-pn/atviv-wb-typescript)
 - 📚 [Documentação do React](https://reactjs.org/docs/hooks-intro.html)
 - 🎨 [Documentação do MaterializeCSS (v1.0.0)](https://materializecss.com)
-
----
-
-## 🔄 Histórico de alterações
-
-- **v1.0.0**: Projeto inicial utilizando **componentes de classe** e **MaterializeCSS**.
-- **v2.0.0**: Migração para **componentes de função** com **React Hooks**.
 
 ---
 
