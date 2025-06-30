@@ -79,7 +79,6 @@ Este pré-projeto seguiu a arquitetura REST, com um micro-serviço desenvolvido.
 ### 🧩 Materiais de Apoio
 
 - 🔗 Repositório auxiliar: [atviiv-wb-typescript](https://github.com/gerson-pn/atviv-wb-typescript)
-- 📚 [Documentação do React](https://reactjs.org/docs/hooks-intro.html)
 - 🎨 [Documentação do MaterializeCSS (v1.0.0)](https://materializecss.com)
 
 ---
