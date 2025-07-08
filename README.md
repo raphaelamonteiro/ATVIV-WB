@@ -65,7 +65,7 @@ Tudo isso consumindo as **rotas REST** disponibilizadas pelo micro-serviço.
 
 Antes de rodar o sistema, certifique-se de ter instalado:
 
-* [Node.js](https://nodejs.org/) (versão 14 ou superior)
+* [Node.js](https://nodejs.org/) (versão 22 ou superior)
 * [Java JDK](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) (versão 17 ou superior)
 * npm (vem com o Node.js)
 
